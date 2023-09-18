@@ -28,6 +28,13 @@ body {
     padding: 0 2rem;
     margin: 0 auto;
 }
-.main { 
+
+.main {
     text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
 }
